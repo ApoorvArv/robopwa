@@ -2,8 +2,8 @@
   "name": "robofriends",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://ApoorvArv.github.io/robopwa",
 
-  
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.2.0",
